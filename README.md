@@ -8,8 +8,11 @@ The CNN model has been implemented using Keras API provided by Tensorflow framew
 The training of the model was performed on Google Colab using a T4 GPU. After shuffling and splitting our 6000 samples into 80% train and 20% test our model was
 trained for 10 epochs with a batch size of 32 and a learning rate of 0.001 with binary cross entropy as the loss measure. We arrived at a learning rate of 0.001 as greater learning rates had lesser accuracies and smaller learning rates would have taken greater time.
 
+## Data
+You can find the data containing all samples for each category of musical instruments at [data](https://drive.google.com/drive/folders/12CNM24zEdys5Rvhl32GGCmU2a9MfuKHu).
+
 ## Report
-You can find the detailed project report containing our reseach question, literature review, results and findings and conlusion [report](https://github.com/saadabdulhakimqureshi/South-Asian-Identification-Tensorflow/blob/main/Report.pdf).
+You can find the detailed project report containing our reseach question, literature review, results and findings and conlusion at [report](https://github.com/saadabdulhakimqureshi/South-Asian-Identification-Tensorflow/blob/main/Report.pdf).
 
 ## References
-The reference code for the CNN model used in this project can be found in the Kaggle notebook [kaggle](https://www.kaggle.com/code/siddhantojha17/musical-instruments-classification-cnn/notebook).
+The reference code for the CNN model used in this project can be found in the Kaggle notebook at [kaggle](https://www.kaggle.com/code/siddhantojha17/musical-instruments-classification-cnn/notebook).
