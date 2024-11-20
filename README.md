@@ -9,7 +9,7 @@ The training of the model was performed on Google Colab using a T4 GPU. After sh
 trained for 10 epochs with a batch size of 32 and a learning rate of 0.001 with binary cross entropy as the loss measure. We arrived at a learning rate of 0.001 as greater learning rates had lesser accuracies and smaller learning rates would have taken greater time.
 
 ## Report
-You can find the detailed project report [here]([report.pdf](https://github.com/saadabdulhakimqureshi/South-Asian-Identification-Tensorflow/blob/main/Report.pdf)).
+You can find the detailed project report [here]([report.pdf](https://github.com/saadabdulhakimqureshi/South-Asian-Identification-Tensorflow/blob/main/Report.pdf).
 
 ## References
-The code for the CNN model used in this project can be found in the Kaggle notebook [here](https://www.kaggle.com/code/siddhantojha17/musical-instruments-classification-cnn/notebook).
+The reference code for the CNN model used in this project can be found in the Kaggle notebook [here](https://www.kaggle.com/code/siddhantojha17/musical-instruments-classification-cnn/notebook).
